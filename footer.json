@@ -1,0 +1,54 @@
+{
+    "footer": [
+        {
+            "title": "Về chúng tôi",
+            "items": [
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Giới thiệu chung"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Giá trị cốt lõi"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Sứ mệnh và tầm nhìn"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Văn hóa doanh nghiệp"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Tin tức & Sự kiện"
+                }
+            ]
+        },
+        {
+            "title": "Về chúng tôi",
+            "items": [
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Giới thiệu chung"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Giá trị cốt lõi"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Sứ mệnh và tầm nhìn"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Văn hóa doanh nghiệp"
+                },
+                {
+                    "link": "chung-toi/gioi-thieu",
+                    "value": "Tin tức & Sự kiện"
+                }
+            ]
+        }
+    ]
+}
